@@ -1,3 +1,8 @@
-# Group: ofi
-# Ofi todos
-
+---
+project: wallos
+project_id: 17817a7f78f62d3e5de7577450ea1e071c0d33bebce2ecc54f12dd33841e8cbc
+file: pending.todo
+file_id: 2a31f9b780876e25ae0070e624390274a5eba81e553ea7563bd1d6dcb332cbc4
+---
+- [ ] Finalize card design
+- [ ] Choose between different players
